@@ -96,3 +96,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Conclusion
 Nile Shell serves as a basic framework for understanding shell implementations in C. It can be extended with more features as needed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#new update coming soon
